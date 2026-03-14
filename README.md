@@ -8,11 +8,6 @@
 
 ---
 
-## 🙋‍♂️ Sobre mim
-
-- 🎓 Estudando programação
-- 📊 Interessado em **frontend e backend**
-- 🚀 Buscando evoluir como desenvolvedor
 
 ---
 
@@ -27,7 +22,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 
 </div>
----
+
 
 ## 📊 Estatísticas
 
