@@ -28,7 +28,7 @@
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/VitorScholze">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorScholze&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorScholze&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -40,7 +40,7 @@
 
 <div>
 
-<a href="www.linkedin.com/in/vitor-scholze-3161a83a9">
+<a href="https://www.linkedin.com/in/vitor-scholze-3161a83a9">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
