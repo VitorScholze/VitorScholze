@@ -40,7 +40,7 @@
 
 <div>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/">
+<a href="www.linkedin.com/in/vitor-scholze-3161a83a9">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
