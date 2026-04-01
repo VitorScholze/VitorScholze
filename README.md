@@ -26,9 +26,11 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorScholze&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorScholze&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorScholze&layout=compact&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=VitorScholze&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorScholze&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ## 📫 Contato
 
