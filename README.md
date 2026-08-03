@@ -11,7 +11,7 @@
 
 ---
 
-## 🧠 Tecnologias que estou aprendendo
+<!--## 🧠 Tecnologias que estou aprendendo
 
 <div align="center">
 
@@ -22,6 +22,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
 
 </div>
+
+-->
 
 
 ## 📊 Estatísticas do GitHub
